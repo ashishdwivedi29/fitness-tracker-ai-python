@@ -40,12 +40,4 @@ It helps users **track calories burned, monitor exercise progress, and predict d
 7. **Check Disease Prediction** based on health metrics.  
 8. **Explore Fitness Products** via the integrated store.
 
----
 
-## ⚡ Installation (Run Locally)
-To run this project locally, follow these steps:
-
-### **Step 1: Clone the Repository**
-```sh
-git clone https://github.com/your-username/fitness-tracker-ai.git
-cd fitness-tracker-ai
